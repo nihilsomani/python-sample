@@ -1,0 +1,7 @@
+fastapi==0.95.0
+pydantic==1.10.7
+requests==2.28.1
+uvicorn==0.21.1
+pandas
+fastapi-utils
+openpyxl
